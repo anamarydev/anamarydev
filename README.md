@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Ana Mary
+# 👋 Hi pessoas! Eu sou a Ana Mary
 
 ✨ Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Explorando o universo da programação do zero  
